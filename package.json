@@ -1,0 +1,33 @@
+{
+  "name": "web3-send-token",
+  "version": "1.0.0",
+  "description": "A simple tool to mass send web3 token",
+  "main": "src/sendToken.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnyNodes/web3-send-token.git"
+  },
+  "keywords": [
+    "web3",
+    "walletconnect",
+    "metamask",
+    "web3-provider",
+    "wallet",
+    "evm",
+    "address",
+    "massive",
+    "send",
+    "token",
+    "eth"
+  ],
+  "author": "AnyNodes",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.11.1",
+    "web3-token-stats": "^1.0.1",
+    "web3-wallet-address": "^1.0.4"
+  }
+}

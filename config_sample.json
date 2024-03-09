@@ -1,0 +1,17 @@
+{
+    "providerUrl": "https://mainnet.infura.io/v3/your_project_id",
+    "tokenContractAddress": "token_address",
+    "privateKey": "sender_privkey",
+    "recipients": [
+      {
+        "address": "receiver_address1",
+        "amount": "1.0"
+      },
+      {
+        "address": "receiver_address2",
+        "amount": "0.5"
+      }
+    ],
+    "tokenDecimals": 18
+  }
+  
